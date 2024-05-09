@@ -152,8 +152,7 @@ class _HeroAnimationState extends State<HeroAnimation>
                             ),
                           ),
                         ],
-                      ));
-                },
+                      ));},
               ),
               Center(
                 child: Text('Tab 2 Content'),
